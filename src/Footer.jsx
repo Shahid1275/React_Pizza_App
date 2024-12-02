@@ -14,8 +14,8 @@ const Footer = () => {
       {isOPen ? (
         <div className="order">
           <p>
-            🍕 We are open untill ! {closeHour}:00. Come visit us or Order
-            Online.
+            🍕 We are open untill between! {closeHour}:00. Come visit us or
+            Order Online.
           </p>
           <button className="btn">Order</button>
         </div>

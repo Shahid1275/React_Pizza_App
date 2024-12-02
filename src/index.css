@@ -9,6 +9,15 @@
 html {
   font-size: 62.5%;
 }
+.menu-description {
+  font-size: 1.1rem;
+  color: #188a16; /* Soft gray */
+  text-align: center;
+  margin: 10px 0 20px; /* Space around the text */
+  font-style: italic;
+  color: white;
+  background-color: #22211f;
+}
 
 body {
   font-family: "Roboto Mono", sans-serif;
